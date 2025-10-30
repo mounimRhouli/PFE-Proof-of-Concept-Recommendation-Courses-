@@ -1,4 +1,3 @@
-![Recommendation System Image](https://www.mdpi.com/electronics/electronics-11-02630/article_deploy/html/images/electronics-11-02630-g001-550.jpg)
 # 📘 Comparative Analysis of Traditional and Deep Learning-Based Recommendation Systems  
 ### 🧠 A Case Study in E-Learning Platforms
 
@@ -13,6 +12,8 @@ In today's digital learning landscape, **recommendation systems (RS)** are essen
 This research project explores both **traditional recommendation methods** (rule-based, content-based, and collaborative filtering) and **deep learning–based models** (LDA, LSTM with Attention, Self-Attention, and Neural Collaborative Filtering).
 
 The study evaluates the performance, scalability, and personalization capabilities of each approach to determine how deep learning can enhance learning experiences on e-learning platforms.
+
+![Recommendation System Image](https://www.mdpi.com/electronics/electronics-11-02630/article_deploy/html/images/electronics-11-02630-g001-550.jpg)
 
 ---
 
