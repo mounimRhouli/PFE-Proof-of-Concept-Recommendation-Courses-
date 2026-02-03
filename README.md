@@ -140,7 +140,6 @@ Through this research, I gained practical and theoretical experience in:
 
 **Rhouli Mohamed Mounim**  
 🎓 Computer Engineering Student — Higher School of Technology, Fez  
-📧 [your.email@example.com]  
 🧑‍🏫 Under supervision of **Dr. Abdelali Ibriz**  
 📆 April 2024  
 
